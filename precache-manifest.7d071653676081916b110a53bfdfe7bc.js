@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "0c3898ea8f8ed22215ce46e5d82f269e",
-    "url": "/THREE-CUBE/public\\images\\dx.png"
+    "revision": "7c7529b05b5c03acbe81864f627a5d2e",
+    "url": "/THREE-CUBE/public\\images\\bd.png"
   },
   {
     "revision": "7f87f6caa75cbb22d084",
@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/THREE-CUBE/static/js/3.9649eec2.chunk.js"
   },
   {
-    "revision": "e68a887ae2ad83ef35500f8c7759ef03",
-    "url": "/THREE-CUBE/public\\images\\fb.png"
+    "revision": "aea5377589a5a93d1f774f2eab2b4724",
+    "url": "/THREE-CUBE/public\\images\\tc.png"
   },
   {
     "revision": "9be82dd95bb56a7c0bb3",
     "url": "/THREE-CUBE/static/css/3.fce4dac8.chunk.css"
   },
   {
-    "revision": "aea5377589a5a93d1f774f2eab2b4724",
-    "url": "/THREE-CUBE/public\\images\\tc.png"
+    "revision": "7d0891d5a855d03522913d26d26c6d9a",
+    "url": "/THREE-CUBE/public\\images\\wx.png"
   },
   {
     "revision": "e6a497ce42b15022840dac405cb7e332",
@@ -48,24 +48,24 @@ self.__precacheManifest = [
     "url": "/THREE-CUBE/static/css/2.d2779743.chunk.css"
   },
   {
-    "revision": "c92b85a5b907c70211f4ec25e29a8c4a",
-    "url": "/THREE-CUBE/public\\favicon.ico"
+    "revision": "0c3898ea8f8ed22215ce46e5d82f269e",
+    "url": "/THREE-CUBE/public\\images\\dx.png"
   },
   {
-    "revision": "87677184efeb31993b3feda448cac892",
-    "url": "/THREE-CUBE/public\\images\\ali.png"
+    "revision": "e68a887ae2ad83ef35500f8c7759ef03",
+    "url": "/THREE-CUBE/public\\images\\fb.png"
   },
   {
     "revision": "e7b0ee01bbf91d86c92cd451e7e19034",
     "url": "/THREE-CUBE/public\\index.html"
   },
   {
-    "revision": "7c7529b05b5c03acbe81864f627a5d2e",
-    "url": "/THREE-CUBE/public\\images\\bd.png"
+    "revision": "87677184efeb31993b3feda448cac892",
+    "url": "/THREE-CUBE/public\\images\\ali.png"
   },
   {
-    "revision": "7d0891d5a855d03522913d26d26c6d9a",
-    "url": "/THREE-CUBE/public\\images\\wx.png"
+    "revision": "c92b85a5b907c70211f4ec25e29a8c4a",
+    "url": "/THREE-CUBE/public\\favicon.ico"
   },
   {
     "revision": "24bf9379cbf6246ca20adaee41279361",
